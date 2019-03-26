@@ -1,0 +1,4 @@
+( (SENT (PONCT -) (ADJ dernier) (NC résumé) (PONCT :) (DET l') (PONCT ") (NC Affaire) (DET des) (NC piastres) (PONCT ")))
+( (SENT (NP (NC Catégories) (COORD (PONCT :) (NP (NC Guerre) (PP (P d') (NP Indochine))))) (PONCT .)))
+( (SENT (NP (NPP Indochine) (AP française)) (PONCT .)))
+( (SENT (NP (ADJ Quatrième) (NC République)) (PONCT .)))
