@@ -1,14 +1,14 @@
-#How to use the tool
+# How to use the tool
 
 To launch our parser tool, just run the script run.sh. He takes six compulsory
 inputs
 
-- Input 1: the path to sentences to parse
-- Input 2: the path where to save the output
-- Input 3: the smoothing parameter to Levenshtein distabce
-- Input 4: the weighting parameter of similarityu metrics
-- Input 5: the lowest line to process
-- Input 6: the highest line to process
+* Input 1: the path to sentences to parse
+* Input 2: the path where to save the output
+* Input 3: the smoothing parameter to Levenshtein distabce
+* Input 4: the weighting parameter of similarityu metrics
+* Input 5: the lowest line to process
+* Input 6: the highest line to process
 
 Therefore to process all the sentences in the evaluation dataset, you should 
 set Input 5 and 6 respectively to 0 and 309.
